@@ -56,7 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel fr
 ### Documentation
 
 - [Webpack 1.x](http://webpack.github.io/docs/) - Webpack 1.x Documentation
-- [Webpack 2.x](https://webpack.js.org//) - Webpack 2.x Documentation
+- [Webpack 2.x +](https://webpack.js.org//) - Webpack 2.x Documentation
 
 ### Community
 
